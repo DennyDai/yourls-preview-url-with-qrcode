@@ -1,6 +1,19 @@
-Add the character '~' to a short URL to display a preview screen before redirection
-#Install
+Preview URL with QR Code
+====================
 
-    In /user/plugins, create a new folder named preview-url-with-qrcode
-    Place the plugin.php file in above directory
-    Go to the Plugins administration page and activate the plugin
+Plugin for [YOURLS](http://yourls.org) `1.5+`. 
+
+Description
+-----------
+Add the character '~' to a short URL to display a preview screen before redirection
+
+Installation
+------------
+1. In `/user/plugins`, create a new folder named `preview-url-with-qrcode`.
+2. Drop these files in that directory.
+3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+4. Have fun!
+
+License
+-------
+MIT License
