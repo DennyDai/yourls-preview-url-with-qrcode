@@ -5,7 +5,7 @@ Plugin for [YOURLS](http://yourls.org) `1.5+`.
 
 Description
 -----------
-Add the character '~' to a short URL to display a preview screen before redirection
+Add the character '~' to a short URL to display a preview screen & QR code before redirection
 
 Installation
 ------------
